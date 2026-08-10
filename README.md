@@ -46,8 +46,7 @@ The main conclusions of the project are:
 - **Price forecast accuracy deteriorates with the forecasting horizon**, particularly for the spot market.
 - Explicitly modelling **aFRR activation** is important because activation affects both the battery's state of charge and its effective cycling.
 - Although the daily economic impact of activation may be relatively small, these differences can accumulate over long operating periods and become relevant for BESS valuation and degradation assessment.
-- Daily BESS revenues cannot generally be attributed to a single market variable, since they depend on the interaction between price spreads, forecast accuracy, cycling, solar capture prices and ancillary-service revenues. :contentReference[oaicite:1]{index=1}
-
+- Daily BESS revenues cannot generally be attributed to a single market variable, since they depend on the interaction between price spreads, forecast accuracy, cycling, solar capture prices and ancillary-service revenues.
 ---
 
 ## Project Architecture
