@@ -48,6 +48,11 @@ The main conclusions of the project are:
 - Although the daily economic impact of activation may be relatively small, these differences can accumulate over long operating periods and become relevant for BESS valuation and degradation assessment.
 - Daily BESS revenues cannot generally be attributed to a single market variable, since they depend on the interaction between price spreads, forecast accuracy, cycling, solar capture prices and ancillary-service revenues.
 ---
+<img width="2400" height="1950" alt="battery_operation_horizon_2_SRS_cycled_page-0001" src="https://github.com/user-attachments/assets/ac7343d9-6e00-4424-8ef4-594ad622bef4" />
+<img width="2700" height="1020" alt="daily_profit_comparison_activation_boxplot_page-0001" src="https://github.com/user-attachments/assets/15ab8bbb-21a3-4998-9be8-6137fe0e0ec9" />
+<img width="2700" height="1800" alt="cumulative_revenue_differences_page-0001" src="https://github.com/user-attachments/assets/6c28ec78-0223-4466-8e66-04a2d65e75d1" />
+<img width="2100" height="750" alt="EFC_before_after_activation_page-0001" src="https://github.com/user-attachments/assets/2ca350f7-2b33-43a8-9ae4-e38ae52c1290" />
+
 
 ## Project Architecture
 
